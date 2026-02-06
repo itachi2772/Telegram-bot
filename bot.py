@@ -11,7 +11,7 @@ from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
 # ==================  CONFIG ==================
-BOT_TOKEN = "8099511649:AAHJG6fgz9Ii-Iev89cV44RhgKtZzoqDsJY"
+BOT_TOKEN = "8431678781:AAGjoBygFOBfYbfbajkFMbGPGJbBvquo-C8"
 
 # Developer Contact
 DEV_CONTACT = "@Catmanskullhurtedwizard"  # Change this to your Telegram username
@@ -1511,4 +1511,5 @@ if __name__ == "__main__":
         print("\n[!] Bot stopped by user")
     except Exception as e:
         print(f"\n[!] Fatal error: {e}")
+
 
