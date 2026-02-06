@@ -1,0 +1,9 @@
+# Multi-Site SMS Bot Requirements
+# For Katabump/Docker deployment
+
+python-telegram-bot==21.5
+requests>=2.31.0
+phonenumbers>=8.13.0
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+httpx>=0.25.0
